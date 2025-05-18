@@ -38,18 +38,18 @@
 git clone https://github.com/petrusjohannesmaas/user-mgmt-tool
 cd user-mgmt-tool
 ```
-*(or just copy the contents of `usermgr.sh` and create your own file)*
+*(or just copy the contents of `usrmgr.sh` and create your own file)*
 
 **Make the script executable:**
 
 ```bash
-chmod +x usermgr.sh
+chmod +x usrmgr.sh
 ```
 
 **Run as sudo user:**
 
 ```bash
-sudo ./usermgr.sh
+sudo ./usrmgr.sh
 ```
 
 **or log in as root if you're not a sudo user yet:**
@@ -59,6 +59,6 @@ su -
 
 ---
 
-### 👽 Check out all my other projects here: [My portfolio](https://petrusjohannesmaas.github.io/research-lab/projects.html)
+### 👽 Check out all my other projects here: [My projects](https://petrusjohannesmaas.github.io/research-lab/projects.html)
 
 
